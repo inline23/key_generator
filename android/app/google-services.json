@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "471900846848",
+    "project_id": "keygenapp-5daa3",
+    "storage_bucket": "keygenapp-5daa3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:471900846848:android:fd76fc98765abdb1e651e5",
+        "android_client_info": {
+          "package_name": "com.example.key_generation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJAKjQb7vsAykhrS9mPOkf5D2gsvWohYw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
